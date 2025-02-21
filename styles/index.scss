@@ -1,4 +1,7 @@
 .header__heading-main {
-    font-size: 3rem;
-    color: red;
+    font-size: 6rem;
+
+    @media (max-width: 62em) {
+        font-size: 5rem;
+    }
 }
