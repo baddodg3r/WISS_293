@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #4c4c4c;
+}
+
+h1,
+h2 {
+    font-family: 'Century Gothic', sans-serif;
+    color: #cc3333;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 1.6em;
+}
+
+.wrapper {
+    width: 80%;
+    background-color: #ffffff;
+    margin: auto;
+    height: 100vh;
+}
